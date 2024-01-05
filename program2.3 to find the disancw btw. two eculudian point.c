@@ -8,6 +8,6 @@ int main()
     printf("enter the co-ordinate ofthe second point=\n");
     scanf("%d%d",&x2,y2);
     double d=sqrt(pow(x2-x1,2)+(pow(y2-y1,2)));
-    printf("the distancw of two pont is=",1f);
+    printf("the distancw of two pont is=",.2f);
     return 0;
 }
